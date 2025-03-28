@@ -1,0 +1,9 @@
+@startuml
+class Jugador
+class Personaje{
+    
+}
+class Partida
+class Clasificacion
+Personaje --* Clasificacion
+@enduml
