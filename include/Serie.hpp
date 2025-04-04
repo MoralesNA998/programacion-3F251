@@ -20,7 +20,6 @@ class Serie
         
     }
     void RecorrerDerecha(){
-
     }
     void ApagarTodo(){
         for (size_t i = 0; i < 10; i++)
@@ -36,4 +35,4 @@ class Serie
         }
         std::cout<< std::endl;
     }
-}:
+};

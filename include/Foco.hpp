@@ -16,8 +16,8 @@ class Foco
     };
     char LeerEstado(){
         if (encendido)
-        return "*";
+        return '*';
         else
-        return "-";
+        return '-';
     };
 };
